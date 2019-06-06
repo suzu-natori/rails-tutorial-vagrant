@@ -1,3 +1,5 @@
+# [Rails tutorial](https://railstutorial.jp)
+
 # How to use
 
 ## Mac
@@ -9,7 +11,7 @@
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 
-
+### Setup vagrant
 ```sh
 brew update
 brew cask install virtualbox
